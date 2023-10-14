@@ -1,0 +1,72 @@
+/*.money-container {
+}*/
+.details-container {
+  width: 100%;
+  height: 20vh;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.m-name {
+  font-family: "Roboto";
+  color: black;
+  font-size: 17px;
+}
+.input-container {
+  display: flex;
+  justify-content: space-between;
+}
+.details {
+  height: 100px;
+  width: 250px;
+  display: flex;
+  align-items: center;
+  border-radius: 12px;
+  background-color: #ffffff;
+  margin-right: 13px;
+}
+.span {
+  font-size: 50px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  height: 70px;
+  width: 70px;
+}
+.about {
+  margin: 0;
+}
+
+.green {
+  background-color: rgb(222, 255, 237);
+  color: #09a73f;
+  border-radius: 50%;
+}
+.violet {
+  background-color: rgb(231, 219, 255);
+  color: rgb(176, 34, 255);
+  border-radius: 50%;
+}
+.blue {
+  background-color: rgb(204, 242, 255);
+  color: rgb(3, 79, 190);
+  border-radius: 50%;
+}
+.pink {
+  background-color: rgb(255, 177, 217);
+  color: rgb(219, 20, 30);
+  border-radius: 50%;
+}
+
+.type {
+  font-family: "Roboto", "sans-serif";
+  font-size: 13px;
+}
+.amount {
+  font-family: "Roboto", "sans-serif";
+  font-size: 15px;
+}
